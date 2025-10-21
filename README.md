@@ -12,3 +12,5 @@ Motst sold product category.
 Each product profit based on product category.
 ## Periodical Maintainance
 Data need to be inserted into my Sql respective tables at 14th of every month.
+## Screenshots/Demos
+![Dashboard Preview](https://github.com/AjaiRaja/AJ-Mart-Sales-Dashboard/blob/main/Dashboard-preview.png).
